@@ -1,4 +1,6 @@
 # SCF-model
+The notebook contains all the codes to implement the Sentiment Collaborative Filetering Recommendation System and two baseline models.
 
 ## Dataset
-The source of dataset comes from the rotten tomatoes.
+Name: Rotten Tomatoes movies and critic reviews dataset
+Source: https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset
